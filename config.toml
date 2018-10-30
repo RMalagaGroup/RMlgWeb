@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "/"
+baseurl = "https://malagarusers.netlify.com/"
 languageCode = "es"
 
 theme = "hyde-hyde"
