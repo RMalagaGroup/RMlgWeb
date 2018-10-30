@@ -1,0 +1,94 @@
+---
+title: Use Blogdown!
+author: V. Sanz
+date: '2018-10-13'
+tags:
+  - blogdown
+  - charlas
+slug: use-blogdown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(eval = FALSE)
+```
+
+El pasado 8 de mayo tuve la oportunidad de dar una charla para la creación de blogs usando el paquete `blogdown`. Aprovechando que ya es posible contribuir al blog de SevillaR, lo haré con un resumen de la charla.
+
+![](/posts/2018-05-17-use-blogdown_files/img_01.png)
+
+## ¿Qué necesitas saber antes de empezar?
+
+`Blogdown` es un paquete creado por Yihue Xie en colaboración con Amber Thomas, Alison Presmanes Hill. He aquí una lista de recursos que te pueden ayudar durante el proceso:
+
+- [Blogdown manual](https://bookdown.org/yihui/blogdown/)
+- [Alison](https://alison.rbind.io/post/up-and-running-with-blogdown/)
+- [Amber](https://amber.rbind.io/blog/2016/12/19/creatingsite/)
+- [Varianceexplained](http://varianceexplained.org/r/start-blog/)
+
+## Crear el repositorio en GitHub
+
+Antes de nada hay que crear un repositorio de GitHub donde permanecerá el blog. No hace falta añadir  `.gitignore`, más adelante RStudio la añadirá, no obstante es útil añadir un `readme`.
+
+![](/posts/2018-05-17-use-blogdown_files/captura_1.PNG)
+
+## Instalar Blogdown y Hugo
+
+Abre RStudio e instala Blogdown y Hugo, para ello:
+
+```{r}
+install.packages(“blogdown”)
+blogdown::install_hugo()
+```
+
+Una vez hecho esto abre en RStudio el repositorio que creaste en GitHub. Para ello tendrás que abrirlo como un proyecto con control de versión. Una vez hecho esto es hora de elegir un [tema de Hugo](https://themes.gohugo.io/):
+
+![](/posts/2018-05-17-use-blogdown_files/captura_6.PNG)
+
+Para instalar el tema simplemente usa el comando `install_theme`, si añades `theme_example = TRUE` se descargarán el tema con un par de post de ejemplo lo cual es útil para entender cómo está organizado el el blog dentro del tema de Hugo que has elegido:
+
+```{r}
+blogdown::install_theme("htr3n/hyde-hyde", theme_example = TRUE)
+```
+
+## Modificando el proyecto
+
+Una vez ya hemos descargado el tema debemos modificar el `.gitignore` para ello basta con ignorar la carpeta `public` además del proyecto en sí, debe quedar algo así:
+
+```{r}
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+blogdown
+.DS_Store
+.Thumbs.db
+public/
+```
+
+Otro pequeño detalle es modificar las opciones del proyecto. Para ello hay que cambiar `Project build tools` a `Website`:
+
+![](/posts/2018-05-17-use-blogdown_files/Captura de pantalla 2018-05-07 a las 18.48.57.png)
+
+También debemos cambiar en el archivo `config.TOML` la URL base a la que estará nuestro blog. Al usar Netlify para alojar nuestra página el dominio siempre será: `foodomin.netlify.com`. 
+
+## Crear una cuenta en Netlify
+
+Estos pasos son relativamente sencillos, para ello:
+
+1. Crea un usuario
+2. Elige el método para actualizar tu página `deploy method`: manual o Git
+
+La manera más eficiente de actualizar la página web es haciendo uso de GitHub. Esta es la razón por la que hemos empezado creando el proyecto primero en git. No obstante algo más sencillo es volcar la carpeta `public` que se creará cada vez aue renderices el blog en local y llevarla manualmente a Netlify.
+
+![Credits to: Amber](/posts/2018-05-17-use-blogdown_files/Captura de pantalla 2018-05-07 a las 20.04.55.png)
+
+Para usar Git (lo recomendado):
+![Credits to: Amber](/posts/2018-05-17-use-blogdown_files/Captura de pantalla 2018-05-07 a las 20.23.22.png)
+
+Cambia el dominio a: `foodomin.netlify.com`
+
+El último paso es modificar la configuración para el deploy, para que todo funcione correctamente asegúrate que la versión de hugo coincide con la que tienes instalada en tu ordenador:
+
+![](/posts/2018-05-17-use-blogdown_files/Captura de pantalla 2018-05-17 a las 21.34.10.png)
+
+¡Listo! Ya has publicado por primera vez tu blog. Para añadir nuevos post y configurar a tu gusto todas las características lee el manual de Blogdown.

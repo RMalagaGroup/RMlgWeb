@@ -1,0 +1,65 @@
+## Basic Configuration
+baseurl = "/"
+languageCode = "es"
+
+theme = "hyde-hyde"
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+## Site Settings
+[params]
+    author = "Grupo de Usuarios de R de Málaga"
+    title = "RMlg"
+    description = "Grupo de usuarios de R en Málaga"
+    authorimage = "/img/logoRMlg_white.jpg"
+    dateformat = "2 Jan 2006"
+    highlightjs = true
+    # highlightjsstyle = "github"
+    # please choose either GraphComment or Disqus
+    # GraphCommentId = "your-graph-comment-id"
+
+## Social Accounts
+[params.social]
+    github = "RMalagaGroup"
+    # instagram = "<username>"
+    # xing = "<username>"
+    # linkedin = "<username>"
+    twitter = "_RMlg"
+    # facebook = "<username>"
+    # stackoverflow = "<username>"
+    email = "r.users.malaga@gmail.com"
+    # forum = "https://groups.google.com/forum/#!forum/sevillarusers"
+    # meetup = "https://www.meetup.com/es-ES/Sevilla-R-users/"
+
+
+## Main Menu
+[[menu.main]]
+    name = "Inicio"
+    weight = 10
+    identifier = "inicio"
+    url = "/"
+[[menu.main]]
+    name = "Noticias"
+    weight = 100
+    identifier = "noticias"
+    url = "/post/"
+[[menu.main]]
+    name = "Tutoriales"
+    weight = 100
+    identifier = "tutoriales"
+    url = "/tutorials/"
+[[menu.main]]
+    name = "Quiénes somos"
+    identifier = "about"
+    weight = 200
+    url = "/about/who-are-we"
+[[menu.main]]
+    name = "Who are we?"
+    identifier = "about-en"
+    weight = 200
+    url = "/about/en-who-are-we"
