@@ -32,7 +32,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     twitter = "_RMlg"
     # facebook = "<username>"
     # stackoverflow = "<username>"
-    email = "r.users.malaga@gmail.com"
+    email = "r.users.mlg@gmail.com"
     # forum = "https://groups.google.com/forum/#!forum/sevillarusers"
     # meetup = "https://www.meetup.com/es-ES/Sevilla-R-users/"
 
