@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shiny Meetups R on </title>
+    <link>/categories/shiny-meetups-r/</link>
+    <description>Recent content in Shiny Meetups R on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/shiny-meetups-r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comienzo Curso 2018-19</title>
+      <link>/posts/comienzo-curso-2018-19/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/comienzo-curso-2018-19/</guid>
+      <description>Meetup R - Sevilla - 2 Octubre 2018
+En nuestra sesión de de comienzo de curso 2018-19, tuvimos tres charlas:
+ Presentación de los resultados de la Encuesta 2018
+ Aplicación Shiny con uso de Leaflet para presentar la localización de los Meetups de R en el mundo
+ Visualización de redes
+  Presentación resultados Encuesta 2018 Antonio Marín nos resumió los resuldados de la encuesta que hicimos hace unas semanas, para saber los intereses de los miembros del grupo, de cara a organizar las próximas reuniones.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grupo on </title>
+    <link>/categories/grupo/</link>
+    <description>Recent content in Grupo on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/grupo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creación del Grupo de Usuarios de R de Málaga</title>
+      <link>/post/creaci%C3%B3n-del-grupo-de-usuarios-de-r-de-m%C3%A1laga/</link>
+      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/creaci%C3%B3n-del-grupo-de-usuarios-de-r-de-m%C3%A1laga/</guid>
+      <description>¡Somos el grupo malagueño de programadores en R! Queremos formar una comunidad en la que compartir conocimiento y experiencias, organizar reuniones y todo tipo de actividades para aprender entre todos a aprovechar todas las lenguajes de R. Totalmente abierto a científicos, profesores, estudiantes, informáticos, programadores, analistas de datos, y cualquier interesado en el uso y el desarrollo de R. No importa el nivel, todos son bienvenidos! Además, nos encantan los espetos =P.</description>
+    </item>
+    
+  </channel>
+</rss>

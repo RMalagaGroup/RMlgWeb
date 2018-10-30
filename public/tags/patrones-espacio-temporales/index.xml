@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrones Espacio Temporales on </title>
+    <link>/tags/patrones-espacio-temporales/</link>
+    <description>Recent content in Patrones Espacio Temporales on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 07 Jun 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/patrones-espacio-temporales/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici</title>
+      <link>/posts/patrones-y-prediccion-sevici/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/patrones-y-prediccion-sevici/</guid>
+      <description>Las diapositivas de la charla de Sevici de nuestra última reunión (2018-06-05) están en bitbucket y en github
+Añado aquí el fragmento de código en el que se muestra la implementación de los modelos predictivos y que aparece en la última diapositiva como seudocódigo.
+# Inicia objetos persistentes modelos = tibble(id=0,modelo=&amp;#39;&amp;#39;,vi=&amp;#39;&amp;#39;,vj=&amp;#39;&amp;#39;,lambda=0,a0=0,df=0,r2=0,RMSE=0,R2test=0) betas = tibble(id=0,modelo=&amp;#39;&amp;#39;,vi=&amp;#39;&amp;#39;,vj=&amp;#39;&amp;#39;,nom=as.list(NULL),beta=as.list(NULL)) residuos = tibble(id=0,modelo=&amp;#39;&amp;#39;,vi=&amp;#39;&amp;#39;,residuo=as.list(NULL)) # Preparativos generales varDTF &amp;lt;- Bp_co.mini.train %&amp;gt;% dplyr::select( one_of(&amp;#39;hora&amp;#39;,&amp;#39;lun&amp;#39;,&amp;#39;mar&amp;#39;,&amp;#39;mie&amp;#39;,&amp;#39;jue&amp;#39;,&amp;#39;vie&amp;#39;,&amp;#39;sab&amp;#39;,&amp;#39;dom&amp;#39;,&amp;#39;fest&amp;#39;,&amp;#39;fsof&amp;#39;, &amp;#39;p&amp;#39;,&amp;#39;tmax&amp;#39;,&amp;#39;tmin&amp;#39;)) testDTF &amp;lt;- Bp_co.mini.test %&amp;gt;% dplyr::select( one_of(&amp;#39;hora&amp;#39;,&amp;#39;lun&amp;#39;,&amp;#39;mar&amp;#39;,&amp;#39;mie&amp;#39;,&amp;#39;jue&amp;#39;,&amp;#39;vie&amp;#39;,&amp;#39;sab&amp;#39;,&amp;#39;dom&amp;#39;,&amp;#39;fest&amp;#39;,&amp;#39;fsof&amp;#39;, &amp;#39;p&amp;#39;,&amp;#39;tmax&amp;#39;,&amp;#39;tmin&amp;#39;)) # Para cada estación salvo 109 for (i in c(1:108,110:260)){ # Selección variables, etc.</description>
+    </item>
+    
+  </channel>
+</rss>

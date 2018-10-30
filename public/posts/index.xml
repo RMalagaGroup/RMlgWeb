@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on </title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 02 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Comienzo Curso 2018-19</title>
+      <link>/posts/comienzo-curso-2018-19/</link>
+      <pubDate>Tue, 02 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/comienzo-curso-2018-19/</guid>
+      <description>Meetup R - Sevilla - 2 Octubre 2018
+En nuestra sesión de de comienzo de curso 2018-19, tuvimos tres charlas:
+ Presentación de los resultados de la Encuesta 2018
+ Aplicación Shiny con uso de Leaflet para presentar la localización de los Meetups de R en el mundo
+ Visualización de redes
+  Presentación resultados Encuesta 2018 Antonio Marín nos resumió los resuldados de la encuesta que hicimos hace unas semanas, para saber los intereses de los miembros del grupo, de cara a organizar las próximas reuniones.</description>
+    </item>
+    
+    <item>
+      <title>Balance del curso 2017-18</title>
+      <link>/posts/balance-del-curso-2017-18/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/balance-del-curso-2017-18/</guid>
+      <description>Con la magnífica charla de Jerónimo Carranza sobre patrones espacio-temporales y modelos predictivos del uso de bicicletas de Sevici terminamos el ciclo de charlas de este curso 2017-18.
+Aquí hemos colgado algunas diapositivas a modo de balance y resumen del curso. Este ha sido un año muy bueno para SevillaR, con muchos nuevos amigos y actividades.
+Volvemos después del verano. En Octubre retomaremos nuestras charlas.
+!Buen verano!</description>
+    </item>
+    
+    <item>
+      <title>Patrones espacio-temporales y modelos predictivos del uso de las bicicletas de Sevici</title>
+      <link>/posts/patrones-y-prediccion-sevici/</link>
+      <pubDate>Thu, 07 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/patrones-y-prediccion-sevici/</guid>
+      <description>Las diapositivas de la charla de Sevici de nuestra última reunión (2018-06-05) están en bitbucket y en github
+Añado aquí el fragmento de código en el que se muestra la implementación de los modelos predictivos y que aparece en la última diapositiva como seudocódigo.
+# Inicia objetos persistentes modelos = tibble(id=0,modelo=&amp;#39;&amp;#39;,vi=&amp;#39;&amp;#39;,vj=&amp;#39;&amp;#39;,lambda=0,a0=0,df=0,r2=0,RMSE=0,R2test=0) betas = tibble(id=0,modelo=&amp;#39;&amp;#39;,vi=&amp;#39;&amp;#39;,vj=&amp;#39;&amp;#39;,nom=as.list(NULL),beta=as.list(NULL)) residuos = tibble(id=0,modelo=&amp;#39;&amp;#39;,vi=&amp;#39;&amp;#39;,residuo=as.list(NULL)) # Preparativos generales varDTF &amp;lt;- Bp_co.mini.train %&amp;gt;% dplyr::select( one_of(&amp;#39;hora&amp;#39;,&amp;#39;lun&amp;#39;,&amp;#39;mar&amp;#39;,&amp;#39;mie&amp;#39;,&amp;#39;jue&amp;#39;,&amp;#39;vie&amp;#39;,&amp;#39;sab&amp;#39;,&amp;#39;dom&amp;#39;,&amp;#39;fest&amp;#39;,&amp;#39;fsof&amp;#39;, &amp;#39;p&amp;#39;,&amp;#39;tmax&amp;#39;,&amp;#39;tmin&amp;#39;)) testDTF &amp;lt;- Bp_co.mini.test %&amp;gt;% dplyr::select( one_of(&amp;#39;hora&amp;#39;,&amp;#39;lun&amp;#39;,&amp;#39;mar&amp;#39;,&amp;#39;mie&amp;#39;,&amp;#39;jue&amp;#39;,&amp;#39;vie&amp;#39;,&amp;#39;sab&amp;#39;,&amp;#39;dom&amp;#39;,&amp;#39;fest&amp;#39;,&amp;#39;fsof&amp;#39;, &amp;#39;p&amp;#39;,&amp;#39;tmax&amp;#39;,&amp;#39;tmin&amp;#39;)) # Para cada estación salvo 109 for (i in c(1:108,110:260)){ # Selección variables, etc.</description>
+    </item>
+    
+    <item>
+      <title>Use Blogdown!</title>
+      <link>/posts/use-blogdown/</link>
+      <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/use-blogdown/</guid>
+      <description>El pasado 8 de mayo tuve la oportunidad de dar una charla para la creación de blogs usando el paquete blogdown. Aprovechando que ya es posible contribuir al blog de SevillaR, lo haré con un resumen de la charla.
+ ¿Qué necesitas saber antes de empezar? Blogdown es un paquete creado por Yihue Xie en colaboración con Amber Thomas, Alison Presmanes Hill. He aquí una lista de recursos que te pueden ayudar durante el proceso:</description>
+    </item>
+    
+    <item>
+      <title>Lista de distribución y Rmarkdown</title>
+      <link>/posts/lista-de-distribuci%C3%B3n-y-rmarkdown/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/lista-de-distribuci%C3%B3n-y-rmarkdown/</guid>
+      <description>La primera cita no pudo ir mejor. Tuvimos ecólogos, matemáticos, informáticos, psicólogos y médicos entre los asistentes, con niveles e intereses variados. Paco nos introdujo al mundo de Rmarkdown, y vi varias expresiones de iluminación providencial cuando nos mostró documentos con código ejecutado que se actualizan en “real time”.
+Las diapositivas de la charla de ayer están aquí
+y todo el código y material está disponible aquí
+También decidimos:
+1) crear una lista de distribución (date de alta aquí) para avisar de reuniones y preguntar dudas.</description>
+    </item>
+    
+    <item>
+      <title>Primera reunión</title>
+      <link>/posts/primera-reuni%C3%B3n/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/primera-reuni%C3%B3n/</guid>
+      <description>El próximo día 25 de Noviembre (21:00) convocamos la primera reunion de usuarios de R de Sevilla. La idea es que sea un grupo abierto donde hablar de R. Cuanto más diverso el grupo, mejor.
+En la primera reunión Paco Rodríguez nos explicará brevemente qué es R Markdown, y cómo podemos editar documentos que incluyan código de R ejecutado en el propio texto. En sus propias palabras, “el mejor invento desde el rebujito”.</description>
+    </item>
+    
+  </channel>
+</rss>

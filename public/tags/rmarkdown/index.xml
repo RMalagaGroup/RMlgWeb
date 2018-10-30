@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rmarkdown on </title>
+    <link>/tags/rmarkdown/</link>
+    <description>Recent content in Rmarkdown on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 26 Nov 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/rmarkdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lista de distribución y Rmarkdown</title>
+      <link>/posts/lista-de-distribuci%C3%B3n-y-rmarkdown/</link>
+      <pubDate>Wed, 26 Nov 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/lista-de-distribuci%C3%B3n-y-rmarkdown/</guid>
+      <description>La primera cita no pudo ir mejor. Tuvimos ecólogos, matemáticos, informáticos, psicólogos y médicos entre los asistentes, con niveles e intereses variados. Paco nos introdujo al mundo de Rmarkdown, y vi varias expresiones de iluminación providencial cuando nos mostró documentos con código ejecutado que se actualizan en “real time”.
+Las diapositivas de la charla de ayer están aquí
+y todo el código y material está disponible aquí
+También decidimos:
+1) crear una lista de distribución (date de alta aquí) para avisar de reuniones y preguntar dudas.</description>
+    </item>
+    
+    <item>
+      <title>Primera reunión</title>
+      <link>/posts/primera-reuni%C3%B3n/</link>
+      <pubDate>Thu, 09 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/primera-reuni%C3%B3n/</guid>
+      <description>El próximo día 25 de Noviembre (21:00) convocamos la primera reunion de usuarios de R de Sevilla. La idea es que sea un grupo abierto donde hablar de R. Cuanto más diverso el grupo, mejor.
+En la primera reunión Paco Rodríguez nos explicará brevemente qué es R Markdown, y cómo podemos editar documentos que incluyan código de R ejecutado en el propio texto. En sus propias palabras, “el mejor invento desde el rebujito”.</description>
+    </item>
+    
+  </channel>
+</rss>

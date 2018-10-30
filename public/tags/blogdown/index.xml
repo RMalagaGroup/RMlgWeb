@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogdown on </title>
+    <link>/tags/blogdown/</link>
+    <description>Recent content in Blogdown on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 13 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/blogdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Use Blogdown!</title>
+      <link>/tutorials/use-blogdown/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tutorials/use-blogdown/</guid>
+      <description>El pasado 8 de mayo tuve la oportunidad de dar una charla para la creación de blogs usando el paquete blogdown. Aprovechando que ya es posible contribuir al blog de SevillaR, lo haré con un resumen de la charla.
+¿Qué necesitas saber antes de empezar? Blogdown es un paquete creado por Yihue Xie en colaboración con Amber Thomas, Alison Presmanes Hill. He aquí una lista de recursos que te pueden ayudar durante el proceso:</description>
+    </item>
+    
+  </channel>
+</rss>
