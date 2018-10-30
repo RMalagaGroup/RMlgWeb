@@ -1,5 +1,5 @@
 ## Malaga R users website
 
-<-- https://sevillarusers.netlify.com/
+<-- https://malagausers.netlify.com/
 
 Made with blogdown.
