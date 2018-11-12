@@ -16,7 +16,7 @@ Los organizadores de este grupo somos:
 - Ángel Mora Bonilla [(@amorabonilla)](https://twitter.com/amorabonilla). Profesor titular en la Universidad de Málaga.
 - Domingo López Rodríguez [(@dominlopez)](https://twitter.com/dominlopez). Profesor Ayudante Doctor en la Universidad de Málaga
 - Pablo Gómez Gonzalo [(@Torla18)](https://twitter.com/Torla18). Investigador en la Universidad de Málaga
-- Jesús Alberto Domínguez Álvarez. Ingeniero Informático que trabaja con R en la industria
+- Jesús Alberto Domínguez Álvarez [(@jax1231)](https://twitter.com/jax1231). Ingeniero Informático que trabaja con R en la industria
 - Ana Villalón Martín [(@Anavillalonm)](https://twitter.com/Anavillalonm). Ingeniera Informática que trabaja con R en la industria
 
 Por último, seguimos el [Código de Conducta de R Consortium](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
