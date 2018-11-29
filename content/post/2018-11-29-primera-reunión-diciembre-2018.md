@@ -22,6 +22,6 @@ La reunión constará de dos partes:
 
 Por supuesto, y como es costumbre en este tipo de eventos, después de la reunión habrá un acto social para todo el que quiera participar.
 
-Todo el que quiera hacerse miembro del grupo, o asistir a esta y otras reuniones que iremos haciendo, puede apuntarse en la dirección: [www.tinyurl.com/RMalaga](www.tinyurl.com/RMalaga).
+Todo el que quiera hacerse miembro del grupo, o asistir a esta y otras reuniones que iremos haciendo, puede apuntarse en la dirección: [www.tinyurl.com/RMalaga](http://www.tinyurl.com/RMalaga).
 
 Os esperamos!!
