@@ -13,7 +13,7 @@ Ya tenemos fecha y lugar para la primera reunión del grupo de usuarios de R en 
 
 Será el próximo jueves día 13 de diciembre, a las 19:00 horas, y celebraremos la reunión en la sala de grados B de la Escuela de Informática, en Teatinos.
 
-<img src="/content/post/2018-11-29-primera-reunión-diciembre-2018_files/guRM_primera.jpg" alt="cartel primera reunión" width="80%"/>
+<img src="/content/post/2018-11-29-primera-reunion-diciembre-2018_files/guRM_primera.jpg" alt="cartel primera reunión" width="80%"/>
 
 La reunión constará de dos partes:
 
