@@ -17,7 +17,7 @@ We adhere to the [R Consortium Code of Conduct](https://wiki.r-consortium.org/vi
 
 The core of the group is formed by:
 
-- Ángel Mora Bonilla [(@amorabonilla)](https://twitter.com/amorabonilla). Full Professor at University of Málaga (Spain).
+- Ángel Mora Bonilla [(@amorabonilla)](https://twitter.com/amorabonilla). Associate Professor at University of Málaga (Spain).
 - Domingo López Rodríguez [(@dominlopez)](https://twitter.com/dominlopez). Assistant Professor at University of Málaga
 - Pablo Gómez Gonzalo [(@Torla18)](https://twitter.com/Torla18). Research Fellow at University of Málaga
 - Jesús Alberto Domínguez Álvarez [(@jax1231)](https://twitter.com/jax1231). Degree in Computer Science and working with R in business
