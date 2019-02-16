@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/disponibles-las-presentaciones-de-la-segunda-reunion/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/proxima-reunion-hello-world/</loc>
+    <lastmod>2018-12-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/disponibles-las-presentaciones-de-la-primera-reunion/</loc>
+    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/se-buscan-voluntarios-para-hablar-de-r/</loc>
+    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/primera-reuni%C3%B3n-diciembre-2018/</loc>
+    <lastmod>2018-11-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/creaci%C3%B3n-del-grupo-de-usuarios-de-r-de-m%C3%A1laga/</loc>
     <lastmod>2018-10-24T00:00:00+00:00</lastmod>
   </url>
@@ -18,25 +43,18 @@
   </url>
   
   <url>
-    <loc>/tutorials/use-blogdown/</loc>
-    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>/post/2019-02-19-disponibles-las-presentaciones-de-la-segunda-reunion/</loc>
   </url>
   
   <url>
     <loc>/about/</loc>
     <lastmod>2018-10-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/blogdown/</loc>
-    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -47,7 +65,7 @@
   
   <url>
     <loc>/tags/charlas/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,25 +77,31 @@
   
   <url>
     <loc>/categories/grupo/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/meeting/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-10-24T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tutorials/</loc>
-    <lastmod>2018-10-13T00:00:00+00:00</lastmod>
+    <loc>/categories/talks/</loc>
+    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

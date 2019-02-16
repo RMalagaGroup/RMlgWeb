@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Charlas on </title>
-    <link>/tags/charlas/</link>
-    <description>Recent content in Charlas on </description>
+    <title>Meeting on </title>
+    <link>/categories/meeting/</link>
+    <description>Recent content in Meeting on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/charlas/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/meeting/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,6 +26,18 @@ Empezando con R: Hello WoRld - I.</description>
     </item>
     
     <item>
+      <title>Próxima reunión: Hello woRld!!</title>
+      <link>/post/proxima-reunion-hello-world/</link>
+      <pubDate>Sun, 23 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/proxima-reunion-hello-world/</guid>
+      <description>¡Hola a todos!
+Os mandamos el formulario de inscripción para la siguiente charla.
+Se titula Introducción a R: Hello WoRld y va a ser la primera de una serie de charlas básicas que queremos hacer como iniciación para todo aquel que esté interesado en R pero nunca lo haya usado. Estas charlas las iremos intercalando con otras temáticas o de paquetes más avanzados.
+En la pasada sesión dijimos que sería el Jueves 17, pero al final va a ser el Jueves 10 de Enero, por motivos organizativos.</description>
+    </item>
+    
+    <item>
       <title>Disponibles las presentaciones de la primera reunión</title>
       <link>/post/disponibles-las-presentaciones-de-la-primera-reunion/</link>
       <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
@@ -38,12 +50,15 @@ Las tenemos en nuestro repositorio de GitHub:
     </item>
     
     <item>
-      <title>Creación del Grupo de Usuarios de R de Málaga</title>
-      <link>/post/creaci%C3%B3n-del-grupo-de-usuarios-de-r-de-m%C3%A1laga/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <title>Primera Reunión (Diciembre 2018)</title>
+      <link>/post/primera-reuni%C3%B3n-diciembre-2018/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/post/creaci%C3%B3n-del-grupo-de-usuarios-de-r-de-m%C3%A1laga/</guid>
-      <description>¡Somos el grupo malagueño de programadores en R! Queremos formar una comunidad en la que compartir conocimiento y experiencias, organizar reuniones y todo tipo de actividades para aprender entre todos a aprovechar todas las lenguajes de R. Totalmente abierto a científicos, profesores, estudiantes, informáticos, programadores, analistas de datos, y cualquier interesado en el uso y el desarrollo de R. No importa el nivel, todos son bienvenidos! Además, nos encantan los espetos =P.</description>
+      <guid>/post/primera-reuni%C3%B3n-diciembre-2018/</guid>
+      <description>Ya tenemos fecha y lugar para la primera reunión del grupo de usuarios de R en Málaga.
+Será el próximo jueves día 13 de diciembre, a las 19:00 horas, y celebraremos la reunión en la sala de grados B de la Escuela de Informática, en Teatinos.
+La reunión constará de dos partes:
+ En la primera, contaremos cómo estamos organizando el grupo y haremos planes de cara al futuro (próximas reuniones, temáticas de interés para las sucesivas charlas&amp;hellip;).</description>
     </item>
     
   </channel>

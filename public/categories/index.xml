@@ -13,9 +13,27 @@
     <item>
       <title>Grupo</title>
       <link>/categories/grupo/</link>
-      <pubDate>Wed, 24 Oct 2018 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/categories/grupo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting</title>
+      <link>/categories/meeting/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/meeting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>/categories/talks/</link>
+      <pubDate>Sun, 10 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/categories/talks/</guid>
       <description></description>
     </item>
     

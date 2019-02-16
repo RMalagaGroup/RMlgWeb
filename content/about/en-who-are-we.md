@@ -15,7 +15,7 @@ In addition, we have [twitter account](https://twitter.com/_RMlg), and a  [repos
 
 We adhere to the [R Consortium Code of Conduct](https://wiki.r-consortium.org/view/R_Consortium_and_the_R_Community_Code_of_Conduct).
 
-The core of the group is formed by:
+The core of the group is formed by the following members:
 
 - Ángel Mora Bonilla [(@amorabonilla)](https://twitter.com/amorabonilla). Associate Professor at University of Málaga (Spain).
 - Domingo López Rodríguez [(@dominlopez)](https://twitter.com/dominlopez). Assistant Professor at University of Málaga

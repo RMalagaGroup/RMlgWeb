@@ -6,10 +6,33 @@
     <description>Recent content in Grupo on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 24 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/grupo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Se Buscan Voluntarios para Hablar de R</title>
+      <link>/post/se-buscan-voluntarios-para-hablar-de-r/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/se-buscan-voluntarios-para-hablar-de-r/</guid>
+      <description>¡Buenas tardes!
+En este link os dejamos un formulario para ver qué charlas podríamos tratar en un futuro y buscar voluntarios para futuras charlas. Recordad que esto se trata de ayudarnos a aprender entre todos y hacer comunidad, por lo que no tengáis miedo por nivel ni tema, y si creéis que puede ser interesante, ¡animaos!
+Un saludo.</description>
+    </item>
+    
+    <item>
+      <title>Primera Reunión (Diciembre 2018)</title>
+      <link>/post/primera-reuni%C3%B3n-diciembre-2018/</link>
+      <pubDate>Thu, 29 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/primera-reuni%C3%B3n-diciembre-2018/</guid>
+      <description>Ya tenemos fecha y lugar para la primera reunión del grupo de usuarios de R en Málaga.
+Será el próximo jueves día 13 de diciembre, a las 19:00 horas, y celebraremos la reunión en la sala de grados B de la Escuela de Informática, en Teatinos.
+La reunión constará de dos partes:
+ En la primera, contaremos cómo estamos organizando el grupo y haremos planes de cara al futuro (próximas reuniones, temáticas de interés para las sucesivas charlas&amp;hellip;).</description>
+    </item>
     
     <item>
       <title>Creación del Grupo de Usuarios de R de Málaga</title>
