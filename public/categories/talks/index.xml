@@ -6,10 +6,22 @@
     <description>Recent content in Talks on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sun, 10 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/talks/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Presentación de la tercera reunión, R consortium</title>
+      <link>/post/disponibles-las-presentaciones-de-la-tercera-reunion/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/post/disponibles-las-presentaciones-de-la-tercera-reunion/</guid>
+      <description>R Consortium Bueno, como ya os comentamos ya estamos bajo el paraguas de R Consortium.
+`` Dear Sir,
+Welcome to the R Consortium RC RUGS 2019, the R Consortium’s R User Group Support Program. We very much appreciate your efforts to organize an R user group in your area. We have reviewed your application and awarded your group a Vector level grant. ``
+Herramientas Grupo de Usuarios de R de Málaga Tenemos actualmente como herramientas para comartir planes, material, información:</description>
+    </item>
     
     <item>
       <title>Presentación de la segunda reunión</title>

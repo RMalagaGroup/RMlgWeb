@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/post/disponibles-las-presentaciones-de-la-tercera-reunion/</loc>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/disponibles-las-presentaciones-de-la-segunda-reunion/</loc>
     <lastmod>2019-02-10T00:00:00+00:00</lastmod>
   </url>
@@ -44,12 +49,16 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/2019-02-19-disponibles-las-presentaciones-de-la-segunda-reunion/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/2019-03-06-disponibles-las-presentaciones-de-la-tercera-reunion/</loc>
   </url>
   
   <url>
@@ -65,7 +74,7 @@
   
   <url>
     <loc>/tags/charlas/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -83,25 +92,25 @@
   
   <url>
     <loc>/categories/meeting/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/categories/talks/</loc>
-    <lastmod>2019-02-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
